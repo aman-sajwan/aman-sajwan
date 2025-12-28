@@ -1,5 +1,5 @@
 # 💫 About Me:
-i currently work at Vastedge<br>i am a Software Developer<br>i have 2+ years of experience in Front End Development
+I currently work at Vastedge<br>I am a Software Developer<br>I have 2+ years of experience in Front End Development
 
 
 ## 🌐 Socials:
